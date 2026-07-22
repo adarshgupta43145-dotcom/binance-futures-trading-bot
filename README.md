@@ -116,13 +116,13 @@ python cli.py sell BTCUSDT --quantity 0.001 --order-type LIMIT --price 69000
 
 ### Market Order
 
-![Market Order](screenshots/market_order.png)
+![Market Order](Screenshots/market_order.png)
 
 ---
 
 ### Limit Order
 
-![Limit Order](screenshots/limit_order.png)
+![Limit Order](Screenshots/limit_order.png)
 
 ---
 
